@@ -1,5 +1,5 @@
 <div align="center">
-  <img alt="Logo Space Cream" src="https://user-images.githubusercontent.com/101216880/194176287-689bee7d-0b84-4527-a192-9d5852015091.svg">
+  <img alt="Logo Space Cream" width="150" src="https://user-images.githubusercontent.com/101216880/194176287-689bee7d-0b84-4527-a192-9d5852015091.svg">
   <h1>Space Cream</h1>
 
   <p>
@@ -59,4 +59,5 @@ Click <a href="https://araujodai.github.io/spaceCream_Resposive/">here</a> to vi
 
 
 <br>
+
 Project created by [Rocketseat](https://github.com/Rocketseat) and developed by [Daiane&nbsp;Araújo](https://github.com/araujodai).
