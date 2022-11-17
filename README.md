@@ -9,7 +9,7 @@
   <p>
     <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
     <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-    <a href="#-funcionalities">Funcionalities</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+    <a href="#-functionalities">Functionalities</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
     <a href="#-publication">Publication</a>
   </p>
 </div>
@@ -26,27 +26,27 @@ Was developed with:
 <br>
 
 ## Project
-This project its a exercise, was developed with objective study and practice concepts learning during the classes at modeule 03 of the program Explorer , from Rocketseat.
+This project its a exercise, was developed with objective study and practice concepts learning during the classes at module 03 of the program Explorer , from Rocketseat.
 
-The challenge consist a reproduce a layout, according disponibilizate, using:
+The challenge is to reproduce the layout, as available, using:
 
 - Mobile First
 - Grid
-- Animations and trasitions
+- Animations and transitions
 - media queries
 
 <br>
 
-## Funcionalities
+## Functionalities
 
 - Cards highlighted when hovering the mouse cursor or touching the screen.
 - Displayed content is switched according to screen size.
 
 
 <div align="center">
-<img alt="Tela executando demosntração do projeto na versão web" width="735" src="https://user-images.githubusercontent.com/101216880/194176404-ab9aa10c-6a65-4e96-b7d0-80ebc36c35c2.gif">
+<img alt="screen running demo of the project in the web version" width="735" src="https://user-images.githubusercontent.com/101216880/194176404-ab9aa10c-6a65-4e96-b7d0-80ebc36c35c2.gif">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img alt="Tela executando demosntração do projeto na versão mobile" width="200" src="https://user-images.githubusercontent.com/101216880/194176457-bb37bcc9-3a61-4571-9278-a2aa8f10674a.gif">
+<img alt="Screen running demo of the project in the mobile version" width="200" src="https://user-images.githubusercontent.com/101216880/194176457-bb37bcc9-3a61-4571-9278-a2aa8f10674a.gif">
 </div>
 
 <br>
@@ -55,7 +55,7 @@ The challenge consist a reproduce a layout, according disponibilizate, using:
 
 Click <a href="https://araujodai.github.io/spaceCream_Resposive/">here</a> to view that project published or, scan the QR Code to view on the smartphone.
 
-<img height="300" width="300" alt="QR Code contendo a URL do projeto" src="https://user-images.githubusercontent.com/101216880/194177826-c3d5cf92-9441-47c3-b176-52331db84e5b.png">
+<img height="300" width="300" alt="QR Code containing the project URL" src="https://user-images.githubusercontent.com/101216880/194177826-c3d5cf92-9441-47c3-b176-52331db84e5b.png">
 
 
 <br>
