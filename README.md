@@ -45,7 +45,7 @@ The challenge is to reproduce the layout, as available, using:
 
 <div align="center">
 <img alt="screen running demo of the project in the web version" width="735" src="https://user-images.githubusercontent.com/101216880/194176404-ab9aa10c-6a65-4e96-b7d0-80ebc36c35c2.gif">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    &nbsp;&nbsp;&nbsp;&nbsp;
 <img alt="Screen running demo of the project in the mobile version" width="200" src="https://user-images.githubusercontent.com/101216880/194176457-bb37bcc9-3a61-4571-9278-a2aa8f10674a.gif">
 </div>
 
